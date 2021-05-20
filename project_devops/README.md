@@ -1,1 +1,1 @@
-Final_Project_Devops by Inbar Barlev and Sharon Gamze
+Final Project Devops by Inbar Barlev and Sharon Gamze
